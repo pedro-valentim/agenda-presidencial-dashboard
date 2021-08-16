@@ -4,7 +4,8 @@ Visualização da agenda presidencial com Streamlit
 
 ## Descrição
 
-Utilizando os dados encontrados em [https://github.com/sjcdigital/data-etl/tree/main/agenda-presidente](sjcdigital/data-etl).
+Utilizando os dados encontrados em [sjcdigital/data-etl](https://github.com/sjcdigital/data-etl/tree/main/agenda-presidente).
+
 Link direto: https://raw.githubusercontent.com/sjcdigital/data-etl/main/agenda-presidente/bolsonaro/report.json
 
 ## Instalação e uso
